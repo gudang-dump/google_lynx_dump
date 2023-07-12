@@ -1,0 +1,18 @@
+## lynx-user 13 TQ3A.230705.001 10216780 release-keys
+- Manufacturer: google
+- Platform: gs201
+- Codename: lynx
+- Brand: google
+- Flavor: lynx-user
+- Release Version: 13
+- Id: TQ3A.230705.001
+- Incremental: 10216780
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/lynx/lynx:13/TQ3A.230705.001/10216780:user/release-keys
+- OTA version: 
+- Branch: lynx-user-13-TQ3A.230705.001-10216780-release-keys-random-text-259582035023159
+- Repo: google_lynx_dump
